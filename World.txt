@@ -1,0 +1,116 @@
+AUSTRIA
+Name                  Team  Pos  Alt  Age  Height  Weight  POT  CON  GRE  SH   PL   ST   CH   PO   HI   SK   EN   PE   FA   LE   SR   FI   IN   OF   DF   OA
+Brian Lebler          UFA   RW   LW   31   6'3     212     74   67   90   72   65   65   68   61   64   68   47   78   61   60   67   36   79   67   64   67
+Frankl Höfler         Draf  RW   LW   17   6'1     195     63   57   82   54   36   47   36   38   36   56   59   61   29   63   45   19   63   45   36   50
+Zelimir Lischka       Draf  RW   LW   18   5'7     167     63   28   75   40   35   35   26   34   18   42   48   70   25   46   16   10   75   36   26   40
+Michael Raffl         UFA   LW   C    31   6'0     200     75   70   90   72   66   74   74   75   74   75   75   79   72   66   75   38   77   70   74   74
+Michael Grabner       UFA   LW   RW   32   6'1     185     75   64   85   77   69   73   75   75   65   75   77   84   71   60   75   38   77   73   71   73
+Thomas Vanek          UFA   LW   RW   36   6'2     214     83   67   90   74   75   77   65   64   60   70   68   68   60   62   78   31   82   75   63   70
+Manfred Prock         Draf  LW   C    18   6'1     177     53   27   105  42   45   45   34   27   35   44   57   74   39   52   45   13   70   44   32   48
+Mario Altmann         UFA   D    -    33   6'4     216     74   78   120  34   40   38   74   74   72   66   51   77   52   58   74   38   79   37   73   65
+Marco Rossi           Juni  C    RW   18   5'9     154     83   79   99   58   55   58   55   58   51   57   56   75   55   47   70   41   78   57   54   63
+Lukas Haudum          Draf  C    LW   23   6'0     183     75   52   100  52   54   52   53   53   54   58   56   72   60   52   48   29   79   52   53   59
+
+BELARUS
+Name                  Team  Pos  Alt  Age  Height  Weight  POT  CON  GRE  SH   PL   ST   CH   PO   HI   SK   EN   PE   FA   LE   SR   FI   IN   OF   DF   OA
+Maxim Sushko          LHV   RW   LW   21   6'0     181     73   64   90   69   72   71   58   70   67   74   73   80   67   50   70   60   71   70   65   69
+Leonid Marov          Draf  RW   -    18   6'0     172     43   44   89   43   44   49   36   39   33   61   62   79   25   54   53   14   80   45   36   50
+Andrei Kostitsyn      UFA   LW   RW   35   6'0     205     83   63   80   73   71   75   74   66   69   80   58   72   56   59   72   30   83   73   69   70
+Mikhail Grabovski     UFA   LW   C    36   5'11    186     78   67   80   69   74   75   72   71   64   81   50   77   70   58   58   28   79   72   69   69
+Sergei Kostitsyn      UFA   LW   C    33   6'0     196     78   63   80   68   72   75   67   69   58   76   56   86   65   50   65   47   72   71   64   68
+Pavel Karnaukhov      STO   LW   C    23   6'3     206     69   70   95   49   53   67   52   57   65   61   58   75   69   50   70   71   85   56   58   64
+Dmitri Korobov        UFA   D    -    31   6'3     230     74   71   120  45   46   53   71   73   71   70   68   75   48   62   71   34   79   48   71   67
+Stepan Falkovsky      ONT   D    -    23   6'7     224     68   78   120  47   63   47   52   67   67   66   60   76   73   49   70   55   78   52   62   66
+Raman Hrabarenka      UFA   D    -    27   6'3     212     75   67   120  43   42   51   68   68   65   68   73   77   50   55   65   47   78   45   67   65
+Oleg Yevenko          UFA   D    -    29   6'7     230     67   75   120  40   30   32   73   74   75   66   80   55   49   59   75   60   78   34   74   64
+Samuel Knazko         Juni  D    -    17   6'0     170     78   70   120  51   54   50   54   52   54   57   57   71   54   51   52   52   78   51   53   61
+Evgeni Lisovets       UFA   D    -    25   6'0     196     78   68   90   54   57   61   58   59   54   63   48   80   50   55   54   35   70   57   57   61
+Vladislav Eriomenko   Draf  D    -    21   6'0     171     68   72   100  47   53   55   67   62   50   57   53   82   46   51   40   36   70   51   59   60
+Daniil Misyul         Juni  D    -    19   6'3     190     76   74   80   39   34   39   61   62   70   69   67   67   30   68   67   69   80   37   64   60
+Pavel Vorobei         Draf  D    -    22   6'3     198     68   74   110  46   44   48   56   55   52   50   56   75   49   50   47   38   72   46   54   58
+Danila Karaban        ONT   C    LW   23   5'10    170     73   54   100  65   52   52   56   55   52   55   69   77   73   52   40   63   72   56   54   61
+Viktor Mashchenko     Draf  C    RW   19   5'6     156     63   54   88   60   63   60   58   58   25   62   65   90   62   68   27   19   98   61   47   60
+Igor Sharangovich     Draf  C    LW   22   6'0     176     69   55   100  50   49   53   53   53   52   55   51   82   56   50   42   38   76   50   52   58
+Artur Gavrus          Juni  C    LW   26   5'10    175     76   67   90   52   54   60   44   42   40   57   41   79   49   55   47   32   75   55   42   56
+Igor Martynov         Draf  C    LW   21   6'0     181     73   60   100  54   52   52   43   37   40   56   37   77   60   49   45   35   76   52   40   55
+
+FRANCE
+Name                  Team  Pos  Alt  Age  Height  Weight  POT  CON  GRE  SH   PL   ST   CH   PO   HI   SK   EN   PE   FA   LE   SR   FI   IN   OF   DF   OA
+Flavien Escude        Draf  RW   LW   19   5'11    185     61   59   110  60   49   52   45   41   34   60   48   88   34   52   37   17   71   53   40   55
+Antoine Roussel       UFA   LW   RW   30   6'0     200     79   75   100  57   55   68   76   72   75   78   59   46   67   66   79   68   75   60   74   70
+Pierre-Edouard Belle  UFA   LW   C    35   6'0     198     75   68   100  56   54   58   73   72   70   68   69   76   69   61   58   10   79   56   71   68
+Alexandre Texier      CLE   LW   C    20   6'0     187     76   65   90   55   57   74   61   61   69   76   76   64   69   52   44   75   77   62   63   65
+Tim Bozon             STO   LW   RW   26   6'1     201     71   65   100  72   52   69   55   58   49   60   71   74   72   51   53   65   72   64   54   64
+Yohann Auvitu         UFA   D    -    30   6'0     198     75   76   100  58   58   64   71   71   66   72   85   89   48   59   62   25   84   60   69   70
+Stephane Da Costa     UFA   C    RW   30   5'11    180     76   67   100  70   68   71   61   66   54   72   54   79   64   55   58   27   81   69   60   67
+
+GERMANY
+Name                  Team  Pos  Alt  Age  Height  Weight  POT  CON  GRE  SH   PL   ST   CH   PO   HI   SK   EN   PE   FA   LE   SR   FI   IN   OF   DF   OA
+Viktors Jasunovs      Juni  RW   LW   20   5'7     161     73   63   90   60   56   56   48   48   29   62   47   79   53   45   37   37   66   57   41   56
+Zemgus Girgensons     MIN   LW   C    26   6'1     203     75   76   90   73   72   75   72   75   72   75   61   76   67   67   75   58   85   73   73   73
+Rudolfs Balcers       SJB   LW   RW   23   5'11    175     76   67   100  54   54   69   71   73   54   73   68   89   68   51   69   75   78   59   66   69
+Ronalds Kenins        UFA   LW   RW   29   6'0     201     69   71   100  55   54   56   76   67   71   75   51   72   58   60   62   48   76   55   71   66
+Martins Dzierkals     Juni  LW   C    23   5'11    169     76   66   100  57   59   60   57   53   49   71   79   74   52   50   58   41   72   58   53   64
+Rihards Bukarts       BEL   LW   RW   24   5'10    192     73   63   100  59   52   52   63   55   52   56   66   75   73   48   62   73   84   54   56   63
+Kristers Gudlevskis   OTT   G    -    27   6'3     214     73   69   90   73   74   74   73   74   75   73   66   75   74   63   73   40   78   73   74   73
+Matiss Kivlenieks     CLE   G    -    23   6'2     178     66   72   95   68   68   68   67   67   67   67   67   76   65   55   65   40   79   68   67   68
+Elvis Merzlikins      CLE   G    -    26   6'3     183     73   70   90   51   56   46   58   48   43   65   60   70   54   54   51   35   81   51   49   59
+Mareks Mitens         Draf  G    -    22   6'1     178     61   69   95   52   53   59   56   54   52   56   43   76   55   45   43   28   78   54   54   57
+Kristofers Bindulis   HER   D    -    24   6'2     192     74   75   120  51   52   46   58   59   70   75   75   75   74   58   74   64   84   49   62   69
+Guntis Galvins        UFA   D    -    34   6'1     192     75   70   120  63   51   53   73   73   72   67   61   80   49   55   69   35   83   55   72   68
+Karlis Cukste         SJB   D    -    23   6'2     203     75   68   110  62   54   60   69   64   65   52   66   72   65   49   74   52   79   58   66   67
+Kristaps Sotnieks     UFA   D    -    33   6'0     205     76   78   120  32   34   34   73   74   67   70   89   70   55   61   70   28   70   33   71   66
+Arturs Kulda          UFA   D    -    31   6'2     215     74   79   120  47   48   48   73   71   72   68   66   57   47   53   71   31   74   47   72   66
+Oskars Bartulis       UFA   D    LW   33   6'1     180     74   77   120  41   38   45   73   73   64   72   58   72   49   64   61   44   85   41   70   65
+Harjis Brants         Juni  D    -    18   5'11    181     76   76   115  30   40   36   56   57   54   53   55   63   36   61   53   41   80   35   55   57
+Dmitry Semak          Draf  D    -    19   6'3     224     66   12   91   23   34   30   65   67   66   64   42   81   32   61   54   33   95   29   66   52
+Theodor Blueger       UFA   C    LW   25   6'0     185     69   76   95   59   67   69   66   70   62   69   74   78   70   57   58   70   81   65   66   69
+Rodrigo Abols         UFA   C    LW   24   6'4     188     69   63   110  52   49   50   54   53   49   52   64   79   53   53   58   41   73   50   52   60
+
+NO COUNTRY
+Name                  Team  Pos  Alt  Age  Height  Weight  POT  CON  GRE  SH   PL   ST   CH   PO   HI   SK   EN   PE   FA   LE   SR   FI   IN   OF   DF   OA
+Nikolaj Ehlers        FLA   RW   LW   24   6'0     172     88   72   90   80   81   85   75   76   71   88   87   81   80   67   63   58   84   82   74   78
+Oliver Bjorkstrand    CBS   RW   LW   25   6'0     175     81   70   90   77   77   80   78   77   73   82   74   82   72   65   67   58   79   78   76   76
+Nicklas Jensen        SYR   RW   LW   27   6'3     216     71   79   100  73   73   71   71   71   69   66   71   78   53   57   71   61   79   72   70   71
+Borna Rendulic        UFA   RW   LW   28   6'2     200     69   75   100  62   60   66   69   68   68   66   62   77   61   63   65   41   78   62   68   68
+Thomas Spelling       UFA   RW   LW   27   6'1     176     73   69   100  57   58   58   52   50   49   62   73   84   46   55   49   31   85   57   50   62
+Jonas Rondbjerg       SAR   RW   LW   21   6'2     187     69   70   95   53   58   58   57   52   58   53   67   89   70   48   47   69   79   56   55   62
+Jannik Hansen         UFA   LW   RW   34   6'1     195     75   74   100  72   71   75   74   75   69   75   68   84   54   57   76   28   85   72   72   73
+Patrick Russell       UFA   LW   RW   27   6'1     206     74   66   90   64   56   69   56   70   67   69   70   87   76   58   63   75   75   63   64   69
+Mikkel Boedker        UFA   LW   RW   30   6'0     211     75   67   90   64   69   72   73   73   63   72   52   83   59   58   65   10   73   68   69   69
+Mathias From          BNG   LW   RW   22   6'1     187     69   72   90   69   69   70   68   70   63   71   70   70   62   52   70   69   73   69   67   69
+Joachim Blichfeld     SJB   LW   RW   21   6'2     180     71   63   110  50   51   64   50   54   60   55   64   81   63   47   52   46   70   55   54   62
+Frederik Andersen     TOR   G    -    30   6'4     230     79   74   90   79   81   80   81   80   80   79   60   78   78   67   77   30   79   80   80   77
+Mantas Armalis        UFA   G    -    27   6'4     194     72   69   90   61   62   61   62   60   62   61   70   74   59   58   52   32   75   61   61   64
+Adam Vay              UFA   G    -    26   6'5     228     70   70   95   54   55   55   54   54   55   63   53   76   55   51   62   27   83   54   54   61
+Philip Larsen         UFA   D    -    30   6'0     182     68   77   100  60   61   65   70   69   65   76   78   63   51   56   67   28   72   62   68   68
+Oliver Lauridsen      UFA   D    -    31   6'6     238     67   88   120  30   31   35   73   72   76   61   81   54   51   61   76   60   79   32   73   65
+Markus Lauridsen      UFA   D    -    29   6'1     205     73   73   120  41   32   38   71   71   65   72   56   78   48   57   68   36   85   37   69   64
+Malte Setkov          Juni  D    -    21   6'2     165     72   75   120  35   41   44   62   61   56   60   50   79   50   50   54   41   76   40   59   60
+Andong Song           Juni  D    -    23   6'0     168     71   70   120  37   30   42   51   49   45   52   57   72   45   48   44   29   78   36   48   55
+Frans Nielsen         CBS   C    LW   36   6'1     188     75   73   90   72   74   75   75   74   68   78   59   84   80   63   67   24   85   73   72   73
+Lars Eller            WAS   C    LW   31   6'2     207     75   67   95   70   70   75   75   75   69   76   73   65   70   58   75   34   85   71   73   72
+Peter Regin           UFA   C    LW   34   6'2     190     76   64   90   65   71   71   71   72   60   74   55   73   81   62   58   27   45   69   67   69
+Nikolaj Krag Christe  SAR   C    LW   21   6'3     201     69   60   120  58   47   48   52   60   66   51   64   75   75   51   50   75   70   51   59   63
+Mikkel Aagaard        BEL   C    LW   24   6'0     179     69   75   100  49   49   50   70   53   62   52   56   69   55   54   57   69   79   49   61   61
+Mason Alderson        Juni  C    -    18   6'2     183     73   70   106  57   54   51   36   37   34   63   52   78   64   59   55   17   75   54   35   59
+Marco Rossi           Juni  C    LW   18   5'10    184     78   72   80   55   56   66   44   39   29   56   42   87   61   47   32   38   70   59   37   56
+
+NORWAY
+Name                  Team  Pos  Alt  Age  Height  Weight  POT  CON  GRE  SH   PL   ST   CH   PO   HI   SK   EN   PE   FA   LE   SR   FI   IN   OF   DF   OA
+Mats Zuccarello       NJD   RW   LW   32   5'8     179     78   74   90   75   80   78   78   77   58   78   78   79   65   65   64   29   74   77   71   74
+Jorgen Karterud       TOM   RW   LW   26   6'4     190     69   65   110  66   76   40   52   39   51   40   52   71   45   54   54   71   85   60   47   58
+Patrick Thoresen      UFA   LW   C    36   6'0     201     76   66   80   71   73   74   75   69   67   72   68   78   66   57   65   45   72   72   70   70
+Andreas Martinsen     UFA   LW   C    30   6'3     229     69   75   90   63   51   70   70   70   74   70   84   70   62   60   70   58   85   61   71   69
+Kristian Marthinsen   Juni  LW   RW   20   6'0     185     71   58   100  51   55   55   40   47   36   60   51   67   56   47   38   29   76   53   41   55
+Lars Haugen           UFA   G    -    33   6'0     183     73   71   95   72   73   72   71   73   72   72   79   84   73   53   57   35   72   72   72   72
+Ken Andre Olimb       UFA   C    LW   31   5'10    176     76   65   100  67   72   70   63   61   55   76   70   80   63   59   59   36   84   69   59   69
+Mathias Emilio Pette  Juni  C    LW   20   5'9     169     76   61   95   59   61   59   45   54   46   67   54   79   68   47   44   24   70   59   48   61
+
+SLOVENIA
+Name                  Team  Pos  Alt  Age  Height  Weight  POT  CON  GRE  SH   PL   ST   CH   PO   HI   SK   EN   PE   FA   LE   SR   FI   IN   OF   DF   OA
+Jan Drozg             WIL   RW   C    21   6'0     174     73   63   100  54   62   73   47   66   66   67   67   81   68   49   54   70   72   63   59   66
+Sasha Halcsin         Draf  RW   -    20   5'11    180     53   62   73   50   44   49   46   41   37   54   53   71   36   63   39   21   61   47   41   51
+Luka Gracnar          MIL   G    -    26   5'10    185     72   72   100  56   59   60   59   57   54   59   50   78   52   53   50   22   79   58   56   62
+Blaz Gregorc          UFA   D    -    30   6'3     209     74   75   120  42   41   45   71   72   67   72   78   74   46   57   63   34   79   42   70   66
+Anze Kopitar          MIN   C    LW   32   6'3     224     85   76   85   80   81   81   77   78   70   83   65   78   80   77   79   39   79   80   75   78
