@@ -1,6 +1,5 @@
 Name                  Team  Pos  Alt  Age  Height  Weight  POT  CON  GRE  SH   PL   ST   CH   PO   HI   SK   EN   PE   FA   LE   SR   FI   IN   OF   DF   OA
 Patrik Laine          WPG   RW   LW   22   6'4     206     51   50   120  88   86   87   73   73   69   83   82   85   90   70   70   51   85   87   71   78
-Jesse Puljujärvi      EDM   RW   LW   22   6'4     211     55   50   120  80   81   81   81   77   71   81   85   89   85   61   83   62   75   80   76   78
 Mikko Rantanen        PIT   RW   C    23   6'4     211     52   50   120  80   82   82   71   69   66   82   82   79   74   63   72   53   78   81   68   74
 Mikko Koivu           EDM   RW   C    37   6'3     222     55   50   120  73   78   77   76   76   67   76   62   72   81   78   77   32   79   76   73   74
 Eeli Tolvanen         VGK   RW   LW   21   5'10    170     51   50   120  82   80   80   76   67   58   81   81   83   80   49   73   80   83   80   67   74
