@@ -1,5 +1,4 @@
 Name                  Team  Pos  Alt  Age  Height  Weight  POT  CON  GRE  SH   PL   ST   CH   PO   HI   SK   EN   PE   FA   LE   SR   FI   IN   OF   DF   OA
-Jesse Puljujärvi      EDM   RW   LW   22   6'4     211     55   50   120  80   81   81   81   77   71   81   85   89   85   61   83   62   75   80   76   78
 Filip Forsberg        NAS   RW   LW   25   6'1     205     51   50   120  80   79   81   75   79   70   80   79   78   87   70   77   51   85   80   74   77
 Jesper Fast           NYR   RW   LW   28   6'0     188     55   50   120  76   75   75   75   75   73   79   80   80   76   64   74   47   73   75   74   75
 Pontus Aberg          DET   RW   LW   26   5'11    196     57   50   120  75   74   77   75   77   59   77   77   80   78   70   76   55   81   75   70   74
